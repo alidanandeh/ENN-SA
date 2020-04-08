@@ -1,3 +1,0 @@
-% Runnig
-
-sa;
